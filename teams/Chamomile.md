@@ -40,7 +40,7 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 
 | GitHub ID | 포스트 링크 |
 | --------- | ------------- |
-| [@wisdeom](https://github.com/wisdeom) | *링크를 남겨주세요* |
+| [@wisdeom](https://github.com/wisdeom) | https://user-images.githubusercontent.com/16282358/129477234-7cd9b682-cf9f-4c51-91b9-7f9eaac3876f.png |
 | [@angie4u](https://github.com/angie4u) | *링크를 남겨주세요* |
 | [@minae27](https://github.com/minae27) | *링크를 남겨주세요* |
 
@@ -54,6 +54,9 @@ SNS에 HackaLearn 이벤트 참여중임을 알 수 있는 포스트를 #hackale
 | --------------- | ---------------------------------- |
 | 애저 정적 웹 앱 | *애저 정적 웹 앱 URL을 남겨주세요* |
 | 깃헙 리포지토리 | *깃헙 리포지토리 URL을 남겨주세요* |
+
+
+![image](https://user-images.githubusercontent.com/16282358/129477234-7cd9b682-cf9f-4c51-91b9-7f9eaac3876f.png)
 
 
 ## 블로그 후기 챌린지 ##
